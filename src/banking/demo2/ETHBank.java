@@ -8,6 +8,7 @@ public interface ETHBank {
 	public void carLoan();
 	
 	public void homeLoan();
-	
+
+	public void propertyTax();
 
 }
